@@ -1,8 +1,8 @@
-Hi and Welcome to my Github!
+# Hi and Welcome to my Github!
 
 The repositories you can find here are some of the Projects (or parts of them) that i worked on and are not sealed behind an NDA.
 
-Hallo und Willkommen auf meinem Github!
+# Hallo und Willkommen auf meinem Github!
 
 Die Repositories die hier gefunden werden können sind einige der Projekte (oder Teile davon) an denen ich Gearbeitet habe und welche nicht einer NDA unterliegen.
 <!--
