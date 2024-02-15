@@ -4,7 +4,7 @@ The repositories you can find here are some of the Projects (or parts of them) t
 
 # Hallo und Willkommen auf meinem Github!
 
-Die Repositories die hier gefunden werden können sind einige der Projekte (oder Teile davon) an denen ich Gearbeitet habe und welche nicht einer NDA unterliegen.
+Die Repositories die hier gefunden werden können sind einige der Projekte (oder Teile davon) an denen ich gearbeitet habe und welche nicht einer NDA unterliegen.
 <!--
 **Klennywenny/Klennywenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
